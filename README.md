@@ -1,37 +1,73 @@
-<div align="center">
-    <h1>👋 Hi there, I'm Saqlain!</h1>
-    <p>🚀 Passionate DevOps Engineer | Automating the Future</p>
-</div>
+<!-- Header Section -->
+<h1 align="center"><font face="Arial">Hi 👋, I'm Saqlain Landage</font></h1>
+<h3 align="center"><font face="Arial">I am a passionate DevOps Enginee, working on DevOps for 3 years now.</font></h3>
+
+<!-- GIF -->
+<img align="right" height="400" width="600" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
+<!-- Tools Section -->
+<h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
+
+<!-- Cloud Section -->
+<h4><font size="+1" face="Tahoma">Cloud:</font></h4>
+<p align="left">
+<a href="[https://aws.amazon.com](https://aws.amazon.com/)" target="_blank" rel="noreferrer">
+<img src="https://www.logigroup.com/images/Logo_aws.gif" alt="aws" width="100" height="80"/>
+</a>
+<!-- Add more cloud-related tools here -->
+</p>
+
+<!-- Scripting Section -->
+<h4><font size="+1" face="Tahoma">Scripting:</font></h4>
+<p align="left">
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+<img src="https://e7.pngegg.com/pngimages/330/276/png-clipart-bash-shell-script-bourne-shell-scripting-language-unix-shell-shell-rectangle-logo.png" alt="bash" width="100" height="100"/>
+</a>
+</p>
+
+<!-- Technologies Section -->
+<h4><font size="+1" face="Tahoma">Technologies:</font></h4>
+<p align="left">
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes" width="40" height="40"/>
+</a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
+</a>
+<a href="https://grafana.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/grafana/grafana/main/docs/logo-horizontal.png" alt="grafana" width="100" height="40"/>
+</a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  </a>
+  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
+  </a>
+  <a href="https://www.graylog.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/graylog/graylog-icon.svg" alt="graylog" width="40" height="40"/>
+  </a>
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
+  </a>
+  <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
+  </a>
+<!-- Stats and GitHub activity -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlain111&label=Profile views&color=0e75b6&style=flat" alt="kedar9696" /> </p>
+
+- DevOps Engineer | Cloud Enthusiast | Containerization and Automation Wizard
+
+<!-- Contact Section -->
+<h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
+<p align="left">
+</p>
 
 
-<h2>🛠️ My Toolbox</h2>
-<ul>
-    <li>⚓ Kubernetes: Orchestrating containerized magic</li>
-    <li>🐳 Docker: Containerizing applications for seamless deployment</li>
-    <li>🌐 Git: Mastering version control for collaborative development</li>
-    <li>🛠️ Jenkins: Building robust CI/CD pipelines for code sorcery</li>
-    <li>🤖 Ansible: Automating configuration management and deployments</li>
-    <li>☁️ AWS: Unleashing cloud-powered solutions</li>
-    <li>📦 Maven: Crafting Java-based spells with precision</li>
-    <li>🐧 Linux: Navigating the open-source realm</li>
-    <li>💻 Shell Scripting: Weaving automation scripts for efficiency</li>
-    <li>📊 Grafana: Visualizing performance data in style</li>
-    <li>📈 Prometheus: Keeping watch for reliability</li>
-    <li>🌍 Terraform: Shaping infrastructure with elegance</li>
-</ul>
-
-<h2>🌟 Why Choose Me</h2>
-<ul>
-    <li>🧙 Dedicated to ensuring smooth, secure, and reliable software operations</li>
-    <li>🚀 Thrive in fast-paced, ever-evolving environments</li>
-    <li>🤝 Strong team player, always ready to collaborate and share knowledge</li>
-    <li>📚 Love staying up-to-date with the latest DevOps trends and technologies</li>
-</ul>
-
-<div align="center">
-    <a href="https://www.linkedin.com/in/saqlain-landage" target="_blank">Find me on LinkedIn</a>
-    <br>
-    <a href="https://github.com/saqlain111" target="_blank">Explore my code on GitHub</a>
-</div>
-
-<p align="center">Feel free to reach out if you'd like to collaborate, have questions, or just want to chat about all things DevOps! 😄</p>
+- 💬 Ask me about *DevOps*
+- 📫 How to reach me *[saqlainlandge20@gmail.com](mailto:saqlainlandge20@gmail.com)*
