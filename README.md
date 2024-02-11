@@ -59,7 +59,7 @@
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
   </a>
 <!-- Stats and GitHub activity -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlain111&label=Profile views&color=0e75b6&style=flat" alt="kedar9696" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlain111&label=Profile views&color=0e75b6&style=flat" alt="saqlain111" /> </p>
 
 - DevOps Engineer | Cloud Enthusiast | Containerization and Automation Wizard
 
